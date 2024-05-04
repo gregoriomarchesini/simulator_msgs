@@ -25,12 +25,7 @@ cd ..
 rosdep install --from-paths src --ignore-src -y
 colcon build
 source install/setup.bash
-
-
-
-This README template provides a concise overview of the repository content, focusing on the custom ROS 2 messages used in the ISS simulation project. It includes sections for describing the purpose of the repository, the specific ROS 2 message types, installation instructions, usage guidelines, and developer contact information.
-
-Feel free to modify the content further based on your specific repository and project requirements. This template aims to provide a clear and informative README for users and contributors to understand the purpose and usage of the ROS messages within your ROS 2 simulator project.
+```
 
 # Developers
 Gregorio Marchesini [gremar@kth.se](mailto:gremar@kth.se)
