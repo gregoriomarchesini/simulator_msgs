@@ -1,0 +1,3 @@
+PhaseAmplitude phase_amplitude # Phase and amplitude message of the given stable relative orbit.
+---
+gazebo_msgs/EntityState entity_state
